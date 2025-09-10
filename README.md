@@ -17,17 +17,17 @@ funFact: "I debug code faster than I make coffee! ☕😄"
 };
 ```
 
-What I Do
+# What I Do
 
-💻 Backend Development → Expertise in PHP frameworks like Laravel & CodeIgniter
+💻 **Backend Development** → Expertise in PHP frameworks like Laravel & CodeIgniter
 
-⚡ Full-Stack Development → Building interactive web applications using Node.js & React
+⚡ **Full-Stack Development** → Building interactive web applications using Node.js & React
 
-🛒 E-commerce Solutions → Developing and customizing PrestaShop & Shopify stores
+🛒 **E-commerce Solutions** → Developing and customizing PrestaShop & Shopify stores
 
-🌱 Continuous Learning → Exploring modern web technologies and best practices
+🌱 **Continuous Learning** → Exploring modern web technologies and best practices
 
-🔧 Problem Solving → Transforming complex requirements into efficient solutions
+🔧 **Problem Solving** → Transforming complex requirements into efficient solutions
 
 🛠️ Tech Stack (Testing Data)
 <div align="center">
