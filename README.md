@@ -29,67 +29,18 @@ funFact: "I debug code faster than I make coffee! ☕😄"
 
 -🔧 **Problem Solving** → Transforming complex requirements into efficient solutions
 
-###🛠️ Tech Stack (Testing Data)
-<div align="center">
-Programming Languages
 
-Frameworks & Libraries
-
-Tools & Technologies
-
-</div>
-🌐 Connect With Me
-<div align="center">
-
-
-
-
-💬 Let’s build amazing projects together!
-
-</div>
-📊 GitHub Analytics
-<div align="center">
-👀 Profile Insights
-
-📈 GitHub Statistics
-
-
-
-
-🏆 Achievements & Activity
-
-📊 Contribution Graph
-
-</div>
-🎯 Current Goals
-
-🔥 Master modern Node.js & React patterns
-
-🌟 Contribute to open-source projects
-
-📚 Share knowledge through technical blogs & tutorials
-
-🤝 Collaborate on innovative web & e-commerce projects
-
-📈 Recent Activity
-
-🚀 Working on full-stack web applications
-
-💡 Learning advanced React patterns and Node.js best practices
-
-🛒 Developing and optimizing e-commerce platforms
-
-📖 Exploring microservices architecture and Docker containerization
+## 🛠️ Tech Stack
 
 <div align="center">
-💭 Quote of the Day
 
-"Code is like humor. When you have to explain it, it's bad." – Cory House
+### Programming Languages
+[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,php,bash,mysql&theme=dark)](https://skillicons.dev)
 
-🙏 Thank You for Visiting!
+### Frameworks & Libraries  
+[![Frameworks](https://skillicons.dev/icons?i=react,nodejs,expressjs,laravel,flask,fastapi,qt,bootstrap,tailwind,sass,materialui,mongodb,jquery&theme=dark)](https://skillicons.dev)
 
-Feel free to explore my repositories and reach out for collaborations! ✨
-
-⭐ If you find my work interesting, consider giving it a star! ⭐
+### Tools & Technologies
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,cmake,pycharm,phpstorm,wordpress,emacs,vim,figma,webpack,ubuntu,vercel&theme=dark)](https://skillicons.dev)
 
 </div>
