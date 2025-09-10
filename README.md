@@ -1,8 +1,8 @@
-Hi there! 👋 I'm Sandeep Tiwari
+# Hi there! 👋 I'm Sandeep Tiwari
 <div align="center">
  
 </div>
-🚀 About Me
+## 🚀 About Me
 
 I'm a seasoned PHP web developer with 15 years of experience, specializing in building robust web applications. I have extensive expertise in Laravel, CodeIgniter, Node.js, React, and e-commerce platforms like PrestaShop and Shopify. I enjoy solving complex problems and delivering clean, scalable, and high-performance solutions.
 
