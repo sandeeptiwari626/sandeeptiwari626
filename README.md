@@ -6,14 +6,16 @@
 
 I'm a seasoned PHP web developer with 15 years of experience, specializing in building robust web applications. I have extensive expertise in Laravel, CodeIgniter, Node.js, React, and e-commerce platforms like PrestaShop and Shopify. I enjoy solving complex problems and delivering clean, scalable, and high-performance solutions.
 
+```javascript
 const sandeep = {
-    pronouns: "He/Him",
-    location: "India",
-    experience: "15 years",
-    techStack: ["PHP", "Laravel", "CodeIgniter", "Node.js", "React", "PrestaShop", "Shopify"],
-    passions: ["Web Development", "E-commerce Solutions", "Scalable Architecture", "Continuous Learning"],
-    funFact: "I debug code faster than I make coffee! ☕😄"
+pronouns: "He/Him",
+location: "India",
+experience: "15 years",
+techStack: ["PHP", "Laravel", "CodeIgniter", "Node.js", "React", "PrestaShop", "Shopify"],
+passions: ["Web Development", "E-commerce Solutions", "Scalable Architecture", "Continuous Learning"],
+funFact: "I debug code faster than I make coffee! ☕😄"
 };
+```
 
 What I Do
 
